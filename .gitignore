@@ -94,6 +94,7 @@ typings/
 
 # Nuxt.js build / generate output
 .nuxt
+.vscode
 dist
 
 # Storybook build outputs
